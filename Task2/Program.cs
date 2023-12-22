@@ -9,7 +9,7 @@ int Y = int.Parse(Console.ReadLine());
 
 if (X == 0 || Y == 0)
 {
-    Console.WriteLine("Условие не выполняется");
+    Console.WriteLine("The point is located on the coordinate axis");
 }
 else
 if (X > 0 && Y > 0)
