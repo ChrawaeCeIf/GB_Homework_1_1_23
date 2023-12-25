@@ -12,7 +12,7 @@ if (10 <= a && a <= 99)
    secondDigit = a % 10;
    if (firstDigit == secondDigit)
    {
-    Console.WriteLine("Число " +firstDigit+ " равно числу "+ +secondDigit);
+    Console.WriteLine("Число " +firstDigit+ " равно числу "+ secondDigit);
    }
    else
    if (firstDigit > secondDigit)

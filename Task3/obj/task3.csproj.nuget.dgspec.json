@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\task3\\task3.csproj": {}
+    "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\Task3\\task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\task3\\task3.csproj": {
+    "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\Task3\\task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\task3\\task3.csproj",
+        "projectUniqueName": "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\Task3\\task3.csproj",
         "projectName": "task3",
-        "projectPath": "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\task3\\task3.csproj",
+        "projectPath": "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\Task3\\task3.csproj",
         "packagesPath": "C:\\Users\\nkorm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\task3\\obj\\",
+        "outputPath": "C:\\Users\\nkorm\\OneDrive\\Рабочий стол\\Homework_01_01_24\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nkorm\\AppData\\Roaming\\NuGet\\NuGet.Config"

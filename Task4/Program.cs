@@ -1,25 +1,27 @@
 ﻿Console.Write("Введите натуральное число N: ");
-int N = Convert.ToInt32(Console.ReadLine());
-if (N < 10)
+int number = int.Parse(Console.ReadLine());
+int lastdigit;
+
+if (number < 10)
 {
-Console.WriteLine(N);
+    Console.Write(number);
 }
 else
 {
-while (N > 0)
-{
-int currentDigit = N % 10;
-N /= 10;
-if (N > 0)
-{
-Console.Write(currentDigit + ",");
+    lastdigit = number % 10;
+    while (number > 0)
+    {
+        lastdigit = number % 10;
+        Console.Write(lastdigit + ", ");
+        number /= 10;
+    }
 }
-else
-{
-Console.WriteLine(currentDigit);
-}
-}
-}
+
+    
+
+
+
+
 
 
 
